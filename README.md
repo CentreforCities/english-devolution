@@ -2,7 +2,16 @@
 Centre for Cities' proposal for reform of local government and local finance
 
 ## Getting Started
-This repo contains the map and associated shapefiles, council tax workbook and scripts, and geography lookup for MSOAs for the English devolution proposal. Each of these is 
+This repo contains the map and associated shapefiles, council tax workbook and scripts, and geography lookup for MSOAs for the English devolution proposal.
+
+The briefing can be found here: https://www.centreforcities.org/
+
+The council tax model in working order can be found here: https://public.flourish.studio/visualisation/18845410/
+
+And the new map for Englocal government can be found here: https://centreforcities.maps.arcgis.com/apps/mapviewer/index.html?webmap=204e20cc8aea4cd98404f406bec499a9
+
+This readme is unfinished and will be updated further over the week.
+
 
 ### Dependencies
 
@@ -51,9 +60,11 @@ Many of the equilibrium effects (e.g. effects on house prices) set out in the IF
 
 ### Understanding the Scripts
 
-There are currently two scripts in this folder that process the price paid data
+XXXX
 
-* Wales Script - A STATA script that produces the 2022 revaluation, as well as the collapsed version of the join between 2003 and 2022 bands
+### Sources
 
-* Council Tax Bands Assign - an R script that joins the 2003 bands to the 2022 bands
+House of Commons Library for the Redcliffe-Maud outlines: https://commonslibrary.parliament.uk/long-shadows-50-years-of-the-local-government-act-1972/
+
+Alternative Travel to Work Areas: https://ons.maps.arcgis.com/apps/MapSeries/index.html?appid=397ccae5d5c7472e87cf0ca766386cc2
 
